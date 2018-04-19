@@ -25,4 +25,4 @@
 * [AveryLiu](https://github.com/AveryLiu)
 * [JackAlan](https://github.com/AlanMelody)
 
-> [alibaba总结的一部分知识点](https://hit-alibaba.github.io/interview/)
+> [以上内容来自HIT-Alibaba](https://github.com/HIT-Alibaba/interview)，很可惜已经2年未更新，我想基于这种形式的知识整理方式上，不单单只针对面试而是对整个iOS知识系统性的归纳，欢迎大家PR。
